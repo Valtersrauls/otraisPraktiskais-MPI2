@@ -1,0 +1,1 @@
+# otraisPraktiskais MPI2
